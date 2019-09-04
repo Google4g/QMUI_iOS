@@ -58,3 +58,5 @@ QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案，其设�
 建议搭配 QMUI 专用的 Code Snippets 及文件模板使用：
 1. [QMUI_iOS_CodeSnippets](https://github.com/QMUI/QMUI_iOS_CodeSnippets)
 2. [QMUI_iOS_Templates](https://github.com/QMUI/QMUI_iOS_Templates)
+
+rename: google
